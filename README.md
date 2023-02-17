@@ -9,7 +9,7 @@ Flutter is a modern, open-source framework for building high-performance, high-f
 ## Design by figma.com/@fruzzdigital
 ![Alt Text](assets/images/fruzzdigital.png)
 ## Screenshot
-![Alt Text](assets/images/screenshot2.jpg)
+![Alt Text](assets/images/screenshot1.jpg)
 ![Alt Text](assets/images/screenshot2.jpg)
 
 ## Getting Started
