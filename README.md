@@ -7,9 +7,9 @@ This app is made using Flutter, a cross-platform framework for mobile app develo
 Flutter is a modern, open-source framework for building high-performance, high-fidelity, app experiences for iOS and Android from a single codebase. It was developed by Google and uses the Dart programming language. Flutter is known for its fast development cycle, expressive and flexible UI, and native performance. The framework includes a rich set of customizable widgets, tools, and libraries that make it easy to build beautiful and functional apps. It also has a growing community of developers and designers who are constantly contributing to the ecosystem. Whether you're building a simple MVP or a complex, data-driven app, Flutter has everything you need to create an outstanding user experience.
 
 ## Design by figma.com/@fruzzdigital
-![Alt Text](assets/images/fruzzdigital.png width=1000)
+![Alt Text](assets/images/fruzzdigital.png)
 ## Screenshot
-![Alt Text](assets/images/screenshot1.jpg)
+![Alt Text](assets/images/screenshot1.jpg | width=1000)
 ![Alt Text](assets/images/screenshot2.jpg)
 
 ## Getting Started
